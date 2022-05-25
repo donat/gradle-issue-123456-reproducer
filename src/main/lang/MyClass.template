@@ -1,5 +1,7 @@
 <#ftl attributes={"targetFile":"src/main/lang/MyClass.@language@"}>
 
+package ${package};
+
 public class MyClass {
     
 }
