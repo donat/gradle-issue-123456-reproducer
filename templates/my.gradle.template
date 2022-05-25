@@ -1,1 +1,3 @@
+<#ftl targetFile=templatesUpdated.java>
+
 My favourite color is ${favouriteColor}!
