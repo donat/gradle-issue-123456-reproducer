@@ -16,7 +16,7 @@
             "question": "Language",
             "choices": {
                 "Java": "java",
-                "Groovy": "groovy",
+                "Groovy": "groovy"
             }
         }
     ]
