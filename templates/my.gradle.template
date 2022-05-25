@@ -1,3 +1,3 @@
-<#ftl attributes={"targetFile":"processed/my.gradle/${favouriteColor}"}>
+<#ftl attributes={"targetFile":"processed/build.@lang@"}>
 
 My favourite color is ${favouriteColor}!
