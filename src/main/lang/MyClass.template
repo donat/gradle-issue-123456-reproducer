@@ -1,4 +1,4 @@
-<#ftl attributes={"targetFile":"src/main/lang/MyClass.@language@"}>
+<#ftl attributes={"targetFile":"src/main/@java@/MyClass.@language@"}>
 
 package ${package};
 
