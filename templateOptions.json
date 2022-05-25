@@ -8,7 +8,8 @@
         {
             "type": "string",
             "name": "package",
-            "question": "Package name"
+            "question": "Package name",
+            "default": "org.example"
         },
         {
             "type": "choice",
