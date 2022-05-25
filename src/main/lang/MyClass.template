@@ -1,0 +1,5 @@
+<#ftl attributes={"targetFile":"src/main/lang/MyClass.@lang@"}>
+
+public class MyClass {
+    
+}

@@ -1,3 +1,0 @@
-<#ftl attributes={"targetFile":"processed/build.@lang@|packageToFile"}>
-
-My favourite color is ${favouriteColor}!
