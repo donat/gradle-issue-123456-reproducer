@@ -1,6 +1,6 @@
-<@GradleTemplate>
+<#GradleTemplate>
 fileName=${package?replace(".", "/")}.java
-</@GradleTemplate>
+</#GradleTemplate>
 
 package ${package};
 
