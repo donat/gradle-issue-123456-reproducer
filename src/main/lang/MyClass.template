@@ -1,4 +1,6 @@
-<#ftl attributes={"targetFile":"src/main/@language@/MyClass.@language@"}>
+<@GradleTemplate>
+fileName=${package?replace(".", "/")}.java
+</@GradleTemplate>
 
 package ${package};
 
