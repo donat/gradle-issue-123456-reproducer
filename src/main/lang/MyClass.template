@@ -1,5 +1,5 @@
 <#GradleTemplate>
-fileName=src/main/${language}/${package?replace(".", "/")}/MyClass.${language}
+targetFile=src/main/${language}/${package?replace(".", "/")}/MyClass.${language}
 </#GradleTemplate>
 package ${package};
 
