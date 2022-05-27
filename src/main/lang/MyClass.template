@@ -1,7 +1,6 @@
 <#GradleTemplate>
-fileName=${package?replace(".", "/")}.java
+fileName=src/main/${language}/${package?replace(".", "/")}.${language}
 </#GradleTemplate>
-
 package ${package};
 
 public class MyClass {
